@@ -1,6 +1,5 @@
 #pragma once
 #include <cstdint>
-#include <immintrin.h>
 
 #include "simd_const.h"
 #include "simd_def.h"
